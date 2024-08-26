@@ -1,7 +1,7 @@
 # tecctbased (c edition) 
 
 > [!NOTE]
-> tecct[^1] based controls:
+> tecctbased[^1] controls:
 > - type `wasd` then `enter` to move.
 > - move to `e`.
 
